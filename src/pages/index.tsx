@@ -11,7 +11,6 @@ interface IHomeProps {
 }
 
 export default function Home({ produtosRecomendados }: IHomeProps) {
-
   return (
     <div>
       <section>
